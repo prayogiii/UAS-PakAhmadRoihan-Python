@@ -13,7 +13,7 @@ Proyek ini adalah aplikasi sederhana untuk mengelola daftar tugas (to-do list) m
 
 ## Cara Menjalankan Program
 1. Clone repository ini.
-2. Pastikan Python sudah terinstall di sistem Anda.
+2. Pastikan Python sudah terinstall di sistem Kamu.
 3. Jalankan file `main.py` menggunakan perintah:
    ```bash
    python main.py
